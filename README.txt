@@ -5,4 +5,4 @@ Lab2: Scan subdomain using Sublist3r
 Lab3: Find all subdomain of given domain
     Ex: ./Lab3.py fpt.edu.vn -d (Dictionary)
     Ex: ./Lab3.py fpt.edu.vn -s (Search using VirusTotal API)
-All code is written in Python3 
+All codes is written in Python3 
